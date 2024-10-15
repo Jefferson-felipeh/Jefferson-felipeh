@@ -10,10 +10,9 @@
 </ul>  
 
 <h2>Estatisticas:</h2>
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-felipeh\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<div align="center">
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-felipeh\&layout=donut)](https://github.com/Jefferson-felipeh/github-readme-stats)
 </div>
 
 <h2>Minhas Skills:</h2>
